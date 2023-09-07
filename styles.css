@@ -1,0 +1,51 @@
+
+
+.principal {
+
+    font-size:2rem ;
+    position:fixed;
+    background-color: rgb(226, 114, 170);
+    left: 5%;
+    right:5%;
+    padding-left:0%;
+
+}
+
+.list {
+
+    float: right;
+
+}
+
+.content {
+    background-color: antiquewhite;   
+    padding-top: 5%;
+
+}
+main {
+    padding-top: 5%;
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+    
+  }
+  
+  main > h1, p, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+   
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  img {
+
+    width: 350px;
+    height:300px;
+  }
